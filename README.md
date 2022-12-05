@@ -1,1 +1,5 @@
-# Alura-Midi
+Sound App 
+
+* HTML
+* CSS
+* JavaScript
